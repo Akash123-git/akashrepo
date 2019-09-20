@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 0083-88CD
+
+ Directory of C:\Users\akalgapu\Desktop\Ak_project
+
+09/20/2019  12:03 PM    <DIR>          .
+09/20/2019  12:03 PM    <DIR>          ..
+09/20/2019  12:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,339,438,592 bytes free
